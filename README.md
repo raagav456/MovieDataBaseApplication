@@ -1,2 +1,2 @@
 # MovieDataBaseApplication
-This is a MovieDataBaseApplication built using Android Studio.
+This is a Movie DataBase Application built using Android Studio.
